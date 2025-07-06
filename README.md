@@ -4,7 +4,7 @@ Design and engineering files for an open hydrofoil connector system
 
 ![MS Connector Part](./MS-Connector.png "MS Connector Part")
 
-The first challenge I encountered when I started building hydrofoils was thinking up a connection system between mast, fuselage and wings. After many iterations, I arrived on the system, and it has served me well for over three years now. It has proven to be strong and durable for me and my friends who are using foils I built for them, the foils that I built three years ago are still perfectly fine.
+The first challenge I encountered when I started building hydrofoils was thinking up a connection system between mast, fuselage, stabilizer and front wing. After several iterations, I arrived on this system, and it has served me well for over three years now. It has proven to be strong and durable for me and several friends who are using foils I built for them. Foils that I built three years ago with this system are still perfectly fine today.
 
 ## Advantages
 This connection system has several advantages over other solutions:
