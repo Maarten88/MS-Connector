@@ -1,6 +1,9 @@
 # MS-Connector
 Design and engineering files for an open hydrofoil connector system
 
+
+![MS Connector Part](./MS-Connector.png "MS Connector Part")
+
 The first challenge I encountered when I started building hydrofoils was thinking up a connection system between mast, fuselage and wings. After many iterations, I arrived on the system, and it has served me well for over three years now. It has proven to be strong and durable for me and my friends who are using foils I built for them, the foils that I built three years ago are still perfectly fine.
 
 ## Advantages
@@ -31,8 +34,16 @@ For the stabilizer connection, a 25 mm carbon round tube is used. It is placed i
 Note M8 set screws (ISO 4027) and M6 flange screws (ISO 7380-2) both fit a 4 mm allen key. That is why these are used throughout.
 
 ## Manufacturing
-For manufacturing this, I use two aluminium metal parts that are molded in when making the fuselage. After demolding the fuselage, I leave the aluminium parts inside and post-cure the mast/fuselage at 60 degrees for 6 hours (consistent with the epoxy manufacturer guidelines). This makes the aluminium expand during post-cure, after cooling down the aluminium parts are pulled out easily using a pully and M16 screw. This creates a cavity that precisely matches the connector, with 0.1 mm play for sand.
+For manufacturing this, I use two aluminium metal parts that are molded in when making the fuselage. 
+![Alu inserts before fuselage molding](./20231029_170645762_iOS.jpg)
 
-For the connector that is actually going into the front wing I use a mold that is made from 25 mm thick HPL (Trespa brand) plastic using a CNC router. In the center I use a 6 mm wooden stick connected to a 80mm SRBF (Tufnol) rod (10 mm diameter) at the threaded end part. This center is tightly wrapped in carbon (0 and 45 degrees) and infused under vacuum. The 28 mm hexagon from sold carbon fiber should be plenty strong to carry the load of a front wing.
+After demolding the fuselage, I leave the aluminium parts inside and post-cure the mast/fuselage at 60 degrees for 6 hours (consistent with the epoxy manufacturer guidelines). This makes the aluminium expand during post-cure, after cooling down the aluminium parts are pulled out easily using a pully and M16 screw. This creates a cavity that precisely matches the connector, with 0.1 mm play for sand.
+![Demolded fuselage with alu inserts](./20231104_155041381_iOS.jpg)
 
+For the connector that is actually going into the front wing I use a mold that is made from 25 mm thick HPL (Trespa brand) plastic using a CNC router. In the center I use a 6 mm wooden stick connected to a 80mm SRBF (Tufnol) rod (10 mm diameter) at the threaded end part. This center is tightly wrapped in carbon (0 and 45 degrees) and infused under vacuum. The 28 mm hexagon from sold carbon fiber should be plenty strong to carry the load of a front wing. After it is demolded, it is post processed on the lathe to make the circular part perfectly round and tap a long M6 thread in the center.
+
+![Making to size on the lathe](./20240510_112002059_iOS.jpg)
+
+After the connector part is drilled and tapped, it is molded inside a front wing.
+![Molding the connector part in a foil](./20240513_113111000_iOS.jpg)
 
